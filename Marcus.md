@@ -1,4 +1,3 @@
 # Marcus markdown file
-
-**This is bold text**
-*This text is italicized*
+**What I learnt from Github**
+*I learnt about Github repository*
